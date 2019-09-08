@@ -1,0 +1,27 @@
+public enum FieldType {
+    address,
+    annote,
+    author,
+    booktitle,
+    chapter,
+    crossref,
+    edition,
+    editor,
+    howpublished,
+    institution,
+    journal,
+    key,
+    month,
+    note,
+    number,
+    organization,
+    pages,
+    publisher,
+    school,
+    series,
+    title,
+    type,
+    volume,
+    year
+
+}
